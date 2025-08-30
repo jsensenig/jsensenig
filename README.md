@@ -4,7 +4,7 @@
 ### A few projects I've had the opportunity to work on,
 
 ### GRAMS Data Aquisition
-NASA-funded balloon gamma-ray telescope. Designing/writing the high-throughput, power constrained [data aquisition system](https://github.com/NevisNeutrinos/GramsReadout) and [telemtry format](https://github.com/NevisNeutrinos/PGramsCommCodec) and [decoding](https://github.com/NevisNeutrinos/readout_decoder) of binary data from the telescope.
+NASA-funded balloon gamma-ray telescope. Designing/writing the high-throughput, power constrained [data aquisition system](https://github.com/NevisNeutrinos/GramsReadout) and [telemetry format](https://github.com/NevisNeutrinos/PGramsCommCodec) and [decoding](https://github.com/NevisNeutrinos/readout_decoder) of binary data from the telescope.
 
 ### DUNE GPS Interface Board (GIB)
 An interface to the GPS system to give precise absolute timestamps for the DUNE experiment. Built the hardware, firmware, software for the initial version.
