@@ -1,7 +1,7 @@
 ## Real-time Data Aquisition and Embedded Software Enthusiast
 
 ---
-### A few projects I've had the opportunity to work on,
+### A few projects I've had the opportunity to work on
 
 ### Penn Trigger Board (PTB)
 A physical interface for an AMD/Xilinx ZYNQ SoC performing data selection at three international particle physics experiments. The hardware, firmware, and 
