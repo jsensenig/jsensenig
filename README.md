@@ -1,4 +1,12 @@
-## Hi there 👋
+## Real-time Data Aquisition Software
+
+---
+A few projects I've worked on
+
+
+### DUNE GPS Interface Board
+An interface to the GPS system to give precise absolute timestamps for the DUNE experiment. Built the hardware, firmware, software for the initial version.
+Documentation for the hardware and using the board can be found [at this link](https://jsensenig.github.io/GIB-Documentation/)
 
 <!--
 **jsensenig/jsensenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
